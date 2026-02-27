@@ -9,8 +9,8 @@ import random
 
 def randDice():
 
-    roll1 = random.randint(1,6)
-    roll2 = random.randint(1,6)
+    roll1 = random.randint(1, 6)
+    roll2 = random.randint(1, 6)
 
     total = roll1 + roll2
 
