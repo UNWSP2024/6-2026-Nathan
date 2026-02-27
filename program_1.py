@@ -6,6 +6,7 @@
 # Write a "randDice" function (with no input) that randomly chooses two numbers between 1 and 6 (inclusive) and then adds them (this is to simulate the rolling of 2 dice).  
 # The dice sum will be the output of this function.
 import random
+
 def randDice():
 
     roll1 = random.randint(1,6)
