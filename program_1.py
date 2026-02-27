@@ -27,4 +27,4 @@ for i in range(100):
 
 average = total_sum / 100
 
-print("Average of the 100 rolls is ", format(average, '.2f')
+print("Average of the 100 rolls is ", format(average, '.2f'))
